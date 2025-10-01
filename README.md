@@ -7,3 +7,6 @@ Welcome to the Spotify Clone — an UI replica of the popular music streaming ap
 
 🛠️ Tech Stack
 Frontend: HTML, CSS
+
+![Uploading image.png…]()
+
